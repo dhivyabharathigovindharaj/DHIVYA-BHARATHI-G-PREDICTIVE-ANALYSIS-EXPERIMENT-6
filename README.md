@@ -125,3 +125,4 @@ plt.show()
 
 
 ## Result
+Thus, the ARIMA (1,1,1) model was successfully implemented for time-series forecasting using synthetic data. The model was fitted, future values were forecasted for 12 months, and the forecast results were visualized successfully.
